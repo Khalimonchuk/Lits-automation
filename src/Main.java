@@ -22,6 +22,7 @@ public class Main {
 
         person.whoAmI();
 
+        ///fff
 
         int i=0;
         while (i<10) {
