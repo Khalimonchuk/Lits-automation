@@ -35,7 +35,7 @@ public class Array {
         }
         return max;
     }
-
+//test
 
     // min value
     public int min() {
