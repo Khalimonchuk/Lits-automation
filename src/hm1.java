@@ -4,7 +4,7 @@ public class hm1 {
 
     public static void main(String[] args) {
 
-//task1
+//task111111
         int a = 5;
         int b = 6;
         int c = 20;
