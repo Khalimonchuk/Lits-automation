@@ -15,7 +15,7 @@ public class Main {
         System.out.println(Arrays.toString(ar4.odd()));
         System.out.println(Arrays.toString(ar1.random()));
 
-//test1
+//test2
 
 /*        Person person = new Person("Alan", 34);
         Person person2 = new Person(34 , "test");
